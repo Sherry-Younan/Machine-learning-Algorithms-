@@ -11,3 +11,4 @@ This Repository contains the below notebooks that I have worked on in the Machin
 -  KNN algorithm
 -  Ensemble Methods_ AdaBoost & Random Forests
 -  XGBoost & Gradient Boosting
+- End to End Example
