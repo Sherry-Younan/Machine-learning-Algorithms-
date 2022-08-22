@@ -1,5 +1,5 @@
 # Machine learning Algorithms
-Notebooks:
+This Repository contains the below notebooks that I have worked on in the Machine learning course at ITI:
 - Linear Regression_Simple & Absolute & Square Tricks
 - Polynomial Regression_Regularization L1 & L2
 - Perceptron Algorithm_Sentiment Analysis
